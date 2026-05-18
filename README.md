@@ -29,3 +29,6 @@ Interactive dashboard project for analyzing sales performance and KPI metrics.
 2. Line Chart
 3. Bar Chart
 4. Pie Chart
+## Dashboard Preview
+
+![Monthly Sales Trend](monthly_sales_trend.png)
